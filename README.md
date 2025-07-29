@@ -8,3 +8,7 @@ This repository contains my personal solutions to various USACO practice problem
 - Divisions covered: Bronze, (Silver & Gold coming soon)
 - Languages used: Primarily Python
 - Purpose: Practice, learning, and sharing techniques — not official solutions
+
+## Dislcaimer:
+
+The solutions provided here are written by me and represent my understanding of each problem. Please do not copy code during contests. Refer to USACO's official site for problem statements — I won’t be posting full descriptions here due to copyright.
