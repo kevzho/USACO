@@ -1,4 +1,4 @@
-#python static-range-sum.py < input.txt
+#python static-range-sum.py < static-range-sum.txt
 
 import sys
 
@@ -8,7 +8,7 @@ data = input().split()
 idx = 0
 N = int(data[idx])
 idx += 1
-M = int(data[idx])
+Q = int(data[idx])
 idx += 1
 
 a = []
@@ -21,7 +21,7 @@ prefix = [0] * (N + 1)
 for i in range(N):
     prefix[i + 1] = prefix[i] + a[i]
 
-for i in range(N):
+for i in range(Q):
     l = int(data[idx]) + 1
     idx += 1
     r = int(data[idx])
