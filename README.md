@@ -5,7 +5,7 @@ This repository contains my personal solutions to various USACO practice problem
 ## About This Repo
 
 - Problems solved from: [usaco.org](http://www.usaco.org/)
-- Divisions covered: Bronze, (Silver & Gold coming soon)
+- Divisions covered: Bronze, Silver (Gold coming soon)
 - Languages used: Primarily Python
 - Purpose: Practice, learning, and sharing techniques — not official solutions
 
